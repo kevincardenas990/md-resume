@@ -1,8 +1,8 @@
-# A first-level heading
+# Kevin Cardenas
 
 Cell - 385-221-5072 Email -kevincardenas990@yahoo.com
 
-**Experience:**
+## **Experience:**
 
     Utah Valley University, Orem Ut - Janitor - July 2022- Present
         Showcased strong time management skills to efficiently complete assigned tasks
@@ -17,8 +17,9 @@ Cell - 385-221-5072 Email -kevincardenas990@yahoo.com
     Happy Sumo, Provo UT - Sushi Chef - April 2022 - July 2022
         Handled cash transactions and operated the cash register
         Used great attention to detail when plating
-##Education:
+## **Education**:
+   
     Utah Valley University, Computer Science - April 2022 - December 2024 Associates Degree
 
-##Hobbies:
+## **Hobbies**:
     Power Lifting and Leather working
